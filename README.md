@@ -4,4 +4,4 @@ Este é um jogo desenvolvido para solucionar um desafio da disciplina de Fundame
 
 ## Desafio
 
-Usar conceitos de programação concorrente, armazenar os dados em arquivos e ao fim de cada partida mostrar o top five;
+Usar conceitos de programação concorrente, armazenar os dados em arquivos e ao fim de cada partida mostrar o top five.
